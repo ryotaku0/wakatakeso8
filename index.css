@@ -1,0 +1,38 @@
+body{
+  
+
+  background-color:black;
+}
+  .main{
+    width:80%;
+  }
+
+.main-logo{
+  float:right;
+  margin-top:150px;
+  margin-right:300px;
+}
+.menu{
+  margin-top:150px;
+  display:flex;
+  flex-flow: column;
+
+}
+.menu-title{
+  width:150px;;
+  color:#A67F3c;
+  float:left;
+  font-size:40px;
+  margin-left:350px;
+  list-style:none;
+  font-family: 'Anton', sans-serif;
+  
+}
+.menu-title:hover{
+  color:#ffb83e;
+  opacity:0.8;
+}
+.menu-title:active{
+  color:#A67F3c;
+  
+}

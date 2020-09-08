@@ -1,0 +1,61 @@
+body{
+  background-color:black;
+}
+nobr{
+  color:white;
+  
+}
+.date{
+  
+  display:inline-block;
+  color:#c7c0b3;
+}
+.date:hover{
+  color:#ffb83e;
+  opacity:0.8;
+}
+.date:active{
+  color:#A67F3c;
+  
+}
+h1{
+  color: #A67F3c;
+}
+.title{
+  color:white;
+  text-align:center;
+  font-size:50px;
+}
+.music{
+  float:left;
+  margin-left:200px;
+  position: relative;
+}
+.recommend{
+  font-size:20px;
+}
+.expla{
+  
+ float:right;
+  color:#A67F3c;
+  margin-right:580px;
+  margin-top:4px;
+  
+  
+  
+}
+.star{
+  line-height: 8px;
+  font-size:20px;
+  color:#A67F3c;
+  margin-bottom:21px;
+  display: inline-block;
+}
+.list{
+  display: inline-block;
+ 
+}
+.fa{
+  color:#A67F3c;
+  margin-right:5px;
+}

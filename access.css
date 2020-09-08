@@ -1,0 +1,50 @@
+body{
+  background-color:black;
+  width:80%;
+  margin:0 auto;
+}
+.date{
+  display:inline-block;
+  color:#c7c0b3;
+  font-size:30px;
+  margin-top:80px;
+}
+.date:hover{
+  color:#ffb83e;
+  opacity:0.8;
+}
+.date:active{
+  color:#A67F3c;
+  
+}
+h1{
+  color: #A67F3c;
+  text-align:center;
+  margin-top:50px;
+}
+.image{
+  display:inline-block;
+  margin-left:300px;
+}
+.fa{
+  color: #A67F3c;
+}
+h2{
+  color:#A67F3c;
+  margin-left:370px;
+}
+.access-route{
+  color:#A67F3c;;
+}
+.access-image{
+  
+  display:inline-block;
+  text-align : center;
+  margin-left:220px;
+  padding-top:25px;
+  padding-bottom:100px;
+}
+p{
+  color:#A67F3c;
+  margin-left:370px;
+}
